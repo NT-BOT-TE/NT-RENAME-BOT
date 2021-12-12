@@ -35,7 +35,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": ""
+      "value": "1834908260"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
